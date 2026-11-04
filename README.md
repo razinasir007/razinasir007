@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Muhammad Razi Nasir 👋
 
-<!--
-**razinasir007/razinasir007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full Stack & AI Engineer
 
-Here are some ideas to get you started:
+I help startups turn ideas into scalable web, mobile, and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 5+ years of development experience, I bring together full-stack engineering, cross-platform mobile development, and AI integration to build solutions that solve real business problems.
+
+### What I Build
+
+- 📱 **Mobile apps** — Cross-platform experiences with React Native.
+- 🌐 **Web & SaaS products** — Applications built with React, Next.js, and the MERN stack.
+- 🤖 **AI-powered applications** — LLM integrations, RAG systems, and AI agents using LangChain.
+- ☁️ **Cloud infrastructure** — AWS deployments that support growing products.
+
+### Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · JavaScript  
+**Mobile:** React Native  
+**Backend:** Node.js · Express · MongoDB  
+**AI:** LLM Integration · RAG · LangChain · Agentic AI  
+**Cloud:** AWS
+
+### Let's Build Something Useful
+
+Have a product idea or an application ready for its next stage?
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/razi-nasir/)
