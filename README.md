@@ -1,88 +1,119 @@
-<h1 align="center">Hey 👋, I'm Muhammad Razi Nasir</h1>
+<h1 align="center">Hey 👋, Razi Nasir here</h1>
 
-<h3 align="center">Senior Full Stack & AI Engineer</h3>
-
-<p align="center">
-  Helping startups turn ideas into scalable web, mobile, and AI-powered products.
-</p>
+<h3 align="center">
+  Senior Full Stack & AI Engineer building mobile apps, SaaS platforms, and AI agents that help startups scale.
+</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=razinasir007&label=Profile%20views&color=1676b6&style=flat" alt="Profile views" />
   <a href="https://www.linkedin.com/in/razi-nasir/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/razinasir007?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+    <img src="https://img.shields.io/badge/GitHub-My_Work-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
 
----
+<br>
 
-### 👨‍💻 About Me
+<img align="right" src="./assets/developer.png" alt="Developer working at a desk" width="46%" />
 
-I'm a full-stack engineer with **5+ years of development experience** and a focus on **mobile apps, web platforms, and AI integration**.
+- 🔭 I’m currently working on **Rebootr**, a mobile recovery and habit-building app with **daily check-ins, progress tracking, and guided support**.
 
-I help founders connect the pieces of a product—from the interface their customers use to the APIs, AI workflows, and cloud infrastructure behind it.
+<br>
 
-- 📱 **Mobile:** Cross-platform applications with **React Native**.
-- 🌐 **Web & SaaS:** Full-stack products with **React, Next.js, and the MERN stack**.
-- 🧠 **AI:** **LLM integrations, RAG pipelines, LangChain, and agentic workflows**.
-- ☁️ **Cloud:** Application deployment and infrastructure on **AWS**.
-- 🤝 **Collaboration:** Helping startups build, launch, and evolve their products.
+- 🧠 My work on **Caliber Boards** includes **multi-agent orchestration and RAG pipelines**, helping AI agents retrieve context, process information, and coordinate tasks.
 
-### 🚀 What I Can Help You Build
+<br>
+
+- 📱 I build **React Native apps for iOS and Android**, with experience across **wellness, fintech, and identity verification**.
+
+<br>
+
+- ⚙️ I work with **React, Next.js, Node.js, TypeScript, MERN, and AWS**, alongside **LangChain, RAG, and LLM integrations**.
+
+<br>
+
+- 💼 **5+ years of full-stack development**, including leading **fintech platform development, mobile delivery, and KYC SDK integration**.
+
+<br>
+
+- 💬 Ask me about **React Native, SaaS development, payment integrations, RAG pipelines, and AI agents**.
+
+<br>
+
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/razi-nasir/)**.
+
+<br>
+
+- ⚡ I enjoy **turning complex requirements into practical products**, connecting the mobile experience, backend services, and AI workflows.
+
+<br clear="both">
+
+## 🚀 What I've built:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Applications</h3>
-      <p>React Native apps for iOS and Android, connecting intuitive interfaces with the backend services that power them.</p>
-      <p><strong>React Native · TypeScript · API Integration</strong></p>
+      <h3>🌱 Rebootr</h3>
+      <p>
+        Working on a mobile recovery and habit-building application.
+        The app brings together daily check-ins, streak tracking,
+        guided recovery plans, reflections, and an emergency toolkit.
+        It also includes community access and subscription-based features.
+      </p>
+      <sub>React Native · Expo · TypeScript · Supabase · RevenueCat · NativeWind</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Web & SaaS Products</h3>
-      <p>From an early MVP to a growing platform: web interfaces, backend APIs, and database architecture built around your product.</p>
-      <p><strong>React · Next.js · Node.js · MongoDB</strong></p>
+      <h3>🧠 Caliber Boards</h3>
+      <p>
+        Implemented AI workflows for a platform built around multi-agent
+        orchestration and RAG pipelines. Enabled agents to retrieve relevant
+        context, process information, and coordinate tasks to produce
+        informed responses.
+      </p>
+      <sub>AI/LLM Integrations · Multi-Agent Orchestration · RAG</sub>
+      <!-- Confirm Next.js, Supabase, and TypeScript before adding them here. -->
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Integrations & Agents</h3>
-      <p>AI assistants, document retrieval, and workflows that connect language models with your application's data and tools.</p>
-      <p><strong>LLMs · RAG · LangChain · Agentic AI</strong></p>
+      <h3>💳 OneMoney Way</h3>
+      <p>
+        Led development of a fintech platform for payment processing,
+        tax collection, and bookkeeping. Owned backend and frontend
+        implementation, building Node.js transaction services and payment
+        gateway integrations alongside React dashboards for financial
+        and administrative workflows.
+      </p>
+      <sub>Node.js · React · Payment Gateway Integrations · REST APIs</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Backend & Cloud</h3>
-      <p>APIs, application services, and AWS infrastructure to support your product as its requirements grow.</p>
-      <p><strong>Node.js · Express · AWS · REST APIs</strong></p>
+      <h3>🌙 Circadian</h3>
+      <p>
+        Developed a cross-platform wellness app to help users understand
+        their circadian rhythm and improve daily routines. Implemented
+        interfaces and workflows for sleep patterns, habits, and wellness
+        activities, with API integration and a consistent experience
+        across iOS and Android.
+      </p>
+      <sub>React Native · TypeScript · REST APIs · iOS · Android</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ Nashid — Mobile Applications & Verify SDK</h3>
+      <p>
+        Led React Native mobile development for iOS and Android,
+        focusing on performance and usability. Collaborated with an
+        Oman-based team on Nashid Verify SDK, a native KYC verification
+        module, and published a custom NPM package for integration into
+        mobile applications. Implemented CI/CD pipelines to automate
+        builds, deployments, and integration testing.
+      </p>
+      <sub>React Native · iOS · Android · Native Modules · NPM · CI/CD · Automated Testing</sub>
     </td>
   </tr>
 </table>
-
-### 🧭 My Approach
-
-- **Start with the problem.** Understand the users and business goals before choosing the implementation.
-- **Build for real use.** Give usability, reliability, and maintainability attention alongside features.
-- **Make AI useful.** Connect models to relevant data and clear tasks, with outputs that can be evaluated.
-- **Think across the product.** Consider how the interface, backend, and infrastructure work together.
-
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,aws,git&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, MongoDB, AWS, and Git" />
-</p>
-
-**Mobile:** React Native  
-**AI:** LLM Integration · RAG · LangChain · AI Agents  
-**Full Stack:** MongoDB · Express · React · Node.js
-
----
-
-<h3 align="center">Have an idea worth building?</h3>
-
-<p align="center">
-  Let's talk about your next mobile app, SaaS platform, or AI integration.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/razi-nasir/"><strong>Connect with me on LinkedIn →</strong></a>
-</p>
