@@ -125,14 +125,31 @@
 - **Keep workflows clear:** Define agent responsibilities, expected outputs, and where human review is needed.
 - **Connect the whole experience:** Bring frontend interfaces, backend services, AI integrations, and cloud deployment together.
 
-## 🤝 Connect with me:
+## Connect with me:
 
-[Let's talk on LinkedIn](https://www.linkedin.com/in/razi-nasir/) about your next SaaS platform, AI integration, or mobile application.
+<p align="left">
+  <a href="https://www.linkedin.com/in/razi-nasir/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="48" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/razinasir007">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="48" height="48" />
+  </a>
+</p>
 
-## 🛠️ Languages and tools:
+<br>
 
-**Web:** Next.js · React · TypeScript · JavaScript  
-**AI:** LangChain · RAG · LLM Integrations · Multi-Agent Orchestration · Agentic Workflows  
-**Backend:** Node.js · Express · REST APIs · MongoDB  
-**Mobile:** React Native · Expo · Native Modules  
-**Cloud & Delivery:** AWS · Git · CI/CD
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,supabase,tailwind,aws,git,npm&theme=light&perline=12" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, MongoDB, Supabase, Tailwind CSS, AWS, Git, and NPM" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=for-the-badge" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/LLM_Integration-7C3AED?style=for-the-badge" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-0F766E?style=for-the-badge" alt="Agentic Workflows" />
+</p>
